@@ -5,6 +5,7 @@
 .npmignore
 .travis.yml
 gulpfile.js
+yarn.lock
 
 ### Node ###
 # Logs
